@@ -1,0 +1,1 @@
+This repository contains data from the article "Auditory pallial regulation of the social behavior network". Further information, questions, and requests should be directed to, and will be fulfilled by, the corresponding author, Luke Remage-Healey (healey@cns.umass.edu).
