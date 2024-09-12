@@ -1,6 +1,8 @@
+# Spooletal2024
+
 This repository contains data from the article "Auditory pallial regulation of the social behavior network". Further information, questions, and requests should be directed to, and will be fulfilled by, the corresponding author, Luke Remage-Healey (healey@cns.umass.edu).
 
-# Description of the data and file structure
+## Description of the data and file structure
 
 Fig1-data_FieldL_inactivation_NCM_firingrates.csv: Data associated with Figure 1. Columns include: Timecourse of the experiment (PRE = pre-infusion, POST = post-infusion, and numbers indicate time in minutes post infusion); Trial number (auditory playback trial number); Period (for each auditory stimulus trial, firing rates were calculated during a baseline period prior to stimulus presentation, and then during stimulus presentation); FiringRate_Hz (firing rate in hertz, or spikes per second); Stimulus_name (name of the auditory stimulus).
 
